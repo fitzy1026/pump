@@ -1,6 +1,6 @@
 {
-  "RPC_ENDPOINT": "https://va.pixelpilotz.com/",
-  "RPC_WEBSOCKET_ENDPOINT": "wss://va.pixelpilotz.com/",
-  "Slippage": 100,
+  "RPC_ENDPOINT": "",
+  "RPC_WEBSOCKET_ENDPOINT": "",
+  "Slippage": ,
   "PAYERPRIVATEKEY": ""
 }
