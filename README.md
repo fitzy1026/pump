@@ -1,3 +1,5 @@
+Solana pumpfun sniper bot
+
 This is the first screen of my Sniper.
 ![image](https://github.com/user-attachments/assets/0934c75a-ba8c-437e-a9c6-9641d9e7ae8f)
 You can set sniper mode and settings
