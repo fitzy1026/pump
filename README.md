@@ -30,6 +30,6 @@ If you are interested in this sniper and have a question then contact me.
 
 telegram: @Ruby0107
 
-discord: [461196913270849558](https://discord.com/channels/@me/1267373287948816395)
+discord: skel1009
 
 gmail: ewantomson1103@gmail.com
